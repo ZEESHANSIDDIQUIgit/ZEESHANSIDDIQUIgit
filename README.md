@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Zeeshan Siddiqui!
+I am a Computer Science student (Class of 2028) at SSUET, driven to build innovative tech solutions and explore the fields of AI and Machine Learning.
 
-<!--
-**ZEESHANSIDDIQUIgit/ZEESHANSIDDIQUIgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Technical Expertise
+Web Development: JavaScript, Node.js, Express.js, HTML5, CSS
 
-Here are some ideas to get you started:
+Languages: Python, C++, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases: MySQL
+
+Development & Tools: React Native, API Integration, Automation, Scripting, Git/GitHub
+
+AI/ML Foundations: Core AI/ML Concepts, Generative AI, LLMs, AWS Fundamentals
+
+🚀 Featured Projects
+FINANCE-PRO (Finance Management System): A full-stack management system leveraging Node.js, Express.js, MySQL, JavaScript, and HTML/CSS.
+
+"Shark" Voice Assistant: A Python-based project utilizing speech recognition, API integration, and automation scripts.
+
+Data Analysis: Experience with big data techniques and processing approaches, including Big Data 101 concepts.
+
+🎓 Education & Interests
+University: Sir Syed University of Engineering and Technology (SSUET), Class of 2028.
+
+Focus Areas: Data Analysis, React Native Development, and building scalable applications with Node.js and Express.js.
