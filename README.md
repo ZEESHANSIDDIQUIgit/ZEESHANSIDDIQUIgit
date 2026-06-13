@@ -18,18 +18,58 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧑‍🚀 Who Am I?
+- 🎓 **CS Student** @ SSUET — Class of 2028
+- 💼 **Full-Stack Developer** — Node.js, React, Express
+- 🔭 Currently building **SSUET Smart Library** & **FinancePro**
+- 🌱 Leveling up in **Next.js**, **TypeScript** & **AI/ML**
+- 🤝 Open to **collaborations** and **open-source** contributions
+- ⚡ Fun fact: I turn ☕ coffee into full-stack applications
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 At a Glance
+
+```text
+🌐 Web Dev        ████████████░░  85%
+🛢️ Databases      ██████████░░░░  75%
+🐍 Python         ████████░░░░░░  60%
+🤖 AI / ML        ██████░░░░░░░░  45%
+☁️ Cloud (AWS)    █████░░░░░░░░░  35%
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📋 <b>More About Me (click to expand)</b></summary>
+<br/>
+
 ```js
 const zeeshan = {
-  name: "Muhammad Zeeshan Siddiqui",
-  university: "Sir Syed University of Engineering & Technology (SSUET)",
-  class: 2028,
-  role: "Full-Stack Developer",
-  currentlyBuilding: ["SSUET Smart Library", "FinancePro Dashboard"],
-  learning: ["React", "Next.js", "TypeScript", "AI/ML"],
-  askMeAbout: ["Node.js", "Express", "MySQL", "Web Dev", "APIs"],
-  funFact: "I turn coffee ☕ into full-stack applications 🚀"
+  name     : "Muhammad Zeeshan Siddiqui",
+  location : "Karachi, Pakistan 🇵🇰",
+  edu      : "Sir Syed University of Engineering & Technology (SSUET)",
+  class    : 2028,
+  stack    : {
+    frontend : ["HTML5", "CSS3", "JavaScript", "React", "Tailwind"],
+    backend  : ["Node.js", "Express.js", "JWT", "REST APIs"],
+    database : ["MySQL", "MongoDB", "SQLite"],
+    tools    : ["Git", "GitHub", "Postman", "VS Code"],
+    learning : ["Next.js", "TypeScript", "React Native", "AI/ML"]
+  },
+  building : ["SSUET Smart Library 📚", "FinancePro Dashboard 💰"],
+  goal     : "Ship products that make real impact 🚀",
 };
 ```
+
+</details>
 
 ---
 
@@ -112,7 +152,7 @@ const zeeshan = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZEESHANSIDDIQUIgit&theme=algolia&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZEESHANSIDDIQUIgit&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
