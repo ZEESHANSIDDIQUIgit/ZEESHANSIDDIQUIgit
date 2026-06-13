@@ -1,231 +1,220 @@
-<!-- HEADER BANNER - Animated vortex with cyan/blue coding aesthetic -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=220&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=40&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=⟨%20Full-Stack%20Developer%20/%20%20AI%20Explorer%20/%20CS%20Student%20⟩&descAlignY=62&descColor=8892b0&descSize=16&stroke=64ffda&strokeWidth=1" />
-</div>
-
-<!-- ANIMATED TERMINAL TYPING -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%40+SSUET;%24+git+status+%E2%86%92+Always+building+something+new...;%24+npm+run+dev+%E2%86%92+SSUET+Smart+Library+%7C+FinancePro;%24+node+--version+%E2%86%92+Fueled+by+Node.js+%26+curiosity;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=230&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=42&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=17" />
 
 </div>
 
-<!-- SOCIAL BADGES -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  TERMINAL TYPING LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeeshan-siddiqui)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZEESHANSIDDIQUIgit)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2364FFDA.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/ZEESHANSIDDIQUIgit)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZEESHANSIDDIQUIgit&color=64ffda&style=flat-square&label=👁️+Profile+Views)
-![Followers](https://img.shields.io/github/followers/ZEESHANSIDDIQUIgit?color=64ffda&style=flat-square&logo=github&label=Followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=680&height=48&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Building+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node.js+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+node+-e+%22console.log('Learning+AI%2FML+daily')%22)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL BADGES                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!-- ABOUT ME — TERMINAL STYLE -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeeshan-siddiqui)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZEESHANSIDDIQUIgit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ZEESHANSIDDIQUIgit)
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+![Profile Views](https://komarev.com/ghpvc/?username=ZEESHANSIDDIQUIgit&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ZEESHANSIDDIQUIgit?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS)](https://github.com/ZEESHANSIDDIQUIgit)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+
+## 🧑‍💻 &nbsp;About Me
+
+<br/>
+
+&nbsp;🎓 &nbsp;CS Student at **SSUET** — Class of 2028 &nbsp;|&nbsp; Karachi, 🇵🇰  
+&nbsp;💼 &nbsp;Building full-stack apps with **Node.js · React · MySQL**  
+&nbsp;🔭 &nbsp;Currently shipping **SSUET Smart Library** & **FinancePro**  
+&nbsp;🌱 &nbsp;Leveling up in **Next.js · TypeScript · React Native · AI/ML**  
+&nbsp;🤝 &nbsp;Open to **collaborations** and **open-source** contributions  
+&nbsp;⚡ &nbsp;Fun fact: I turn ☕ into scalable applications  
+
+<br clear="right"/>
+
+<br/>
+
+<!-- CODE BLOCK -->
+<details>
+<summary>👨‍💻 &nbsp;<b>My Developer Config (click to expand)</b></summary>
+
+<br/>
 
 ```typescript
-// zeeshan.config.ts
+// zeeshan.config.ts  ──  last updated 2025
 
-const developer = {
-  name    : "Muhammad Zeeshan Siddiqui",
-  alias   : "Zeeshan",
-  located : "Karachi, Pakistan 🇵🇰",
-  uni     : "SSUET — Class of 2028 🎓",
-
-  currently: {
-    building : ["SSUET Smart Library 📚",
-                "FinancePro Dashboard 💰"],
-    learning : ["Next.js", "TypeScript",
-                "React Native", "AI/ML"],
-    open_to  : "Collaborations & Open Source"
-  },
+const zeeshan = {
+  name     : "Muhammad Zeeshan Siddiqui",
+  location : "Karachi, Pakistan 🇵🇰",
+  uni      : "SSUET — B.S. Computer Science, Class of 2028",
 
   stack: {
-    frontend : ["React", "JS", "Tailwind"],
-    backend  : ["Node.js", "Express", "JWT"],
-    database : ["MySQL", "MongoDB"],
-    devtools : ["Git", "Postman", "VS Code"],
+    frontend : ["React", "JavaScript", "TypeScript", "Tailwind CSS"],
+    backend  : ["Node.js", "Express.js", "JWT", "REST APIs"],
+    database : ["MySQL", "MongoDB", "SQLite"],
+    tools    : ["Git", "GitHub", "Postman", "VS Code"],
+    learning : ["Next.js", "React Native", "AI/ML", "AWS"],
   },
 
-  mantra: "Ship fast. Learn faster. 🚀",
+  currently: {
+    building : ["📚 SSUET Smart Library", "💰 FinancePro Dashboard"],
+    exploring: ["Generative AI", "LLMs", "Cloud Architecture"],
+  },
+
+  softSkills  : ["Problem Solver", "Fast Learner", "Team Player"],
+  availableFor: ["Internships", "Freelance", "Open Source"],
+  mantra      : "Ship fast. Learn faster. Build better. 🚀",
+
 } satisfies Developer;
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-<br/><br/>
-
-```text
-💡 Problem Solver
-⚡ Fast Learner  
-🔧 Clean Code Advocate
-🤝 Team Player
-```
-
-</td>
-</tr>
-</table>
+</details>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- SKILLS SECTION WITH ANIMATED SNAKE -->
-## 🛠️ Tech Arsenal
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
 
 <br/>
 
 <div align="center">
 
-<!-- FRONTEND -->
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-7c3aed?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-e2b96f?style=for-the-badge&logo=fastapi&logoColor=black)
 
-</details>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<!-- BACKEND -->
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
+### 🔧 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-%2364FFDA.svg?style=for-the-badge&logo=fastapi&logoColor=black)
-
-</details>
-
-<!-- DATABASE -->
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</details>
-
-<!-- LANGUAGES & TOOLS -->
-<details open>
-<summary><b>🔧 Languages & Tools</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-<!-- CLOUD / AI -->
-<details open>
-<summary><b>☁️ Cloud & AI</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-</details>
+### ☁️ Cloud & AI
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?style=for-the-badge&logo=cloudflare&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 
 </div>
 
 <br/>
 
-<!-- SKILL METER -->
+<!-- SKILL PROFICIENCY METER -->
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║           ⚡  SKILL PROFICIENCY  ⚡              ║
-╠══════════════════════════════════════════════════╣
-║  Node.js / Express   ██████████████░░░░   80%   ║
-║  JavaScript / React  █████████████░░░░░   75%   ║
-║  MySQL / Databases   ████████████░░░░░░   70%   ║
-║  Python              █████████░░░░░░░░░   55%   ║
-║  TypeScript          ████████░░░░░░░░░░   50%   ║
-║  AI / ML             ██████░░░░░░░░░░░░   40%   ║
-╚══════════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════════╗
+║              ⚡  SKILL PROFICIENCY METER  ⚡             ║
+╠══════════════════════════════════════════════════════════╣
+║  ◈  Node.js / Express    ████████████████░░░░   80%     ║
+║  ◈  JavaScript / React   ██████████████░░░░░░   75%     ║
+║  ◈  MySQL / Databases    ████████████░░░░░░░░   70%     ║
+║  ◈  Python               ██████████░░░░░░░░░░   55%     ║
+║  ◈  TypeScript           █████████░░░░░░░░░░░   50%     ║
+║  ◈  AI / ML Concepts     ███████░░░░░░░░░░░░░   40%     ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/ZEESHANSIDDIQUIgit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZEESHANSIDDIQUIgit&repo=ZEESHANSIDDIQUIgit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8b949e&border_color=64ffda" />
-</a>
+| &nbsp; | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| 💰 | **FinancePro Dashboard** | Full-stack personal finance app — budget tracking, transactions, Chart.js graphs, PDF/Excel/Word exports | `Node.js` `Express` `MySQL` `Chart.js` `HTML/CSS` |
+| 📚 | **SSUET Smart Library** | Library management system — QR issuance, JWT auth, admin & student roles, fine tracking, AI recommendations | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
+| 🎙️ | **Shark Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, automation scripts | `Python` `SpeechRecognition` `APIs` |
 
 </div>
 
 <br/>
 
-| 🏷️ Project | 📋 Description | 🔧 Stack | ⭐ |
-|:---:|:---|:---|:---:|
-| 💰 **FinancePro** | Full-stack personal finance dashboard — budget tracking, transaction management, Chart.js visualizations, multi-format exports (PDF/Excel/Word) | `Node.js` `Express` `MySQL` `Chart.js` `HTML/CSS` | [![Stars](https://img.shields.io/github/stars/ZEESHANSIDDIQUIgit?color=64ffda&style=flat-square)](https://github.com/ZEESHANSIDDIQUIgit) |
-| 📚 **SSUET Smart Library** | Library management system — QR-based book issuance, JWT auth, admin & student roles, fine tracking, AI book recommendations | `Node.js` `Express` `MySQL` `JWT` `QR Code` | [![Stars](https://img.shields.io/github/stars/ZEESHANSIDDIQUIgit?color=64ffda&style=flat-square)](https://github.com/ZEESHANSIDDIQUIgit) |
-| 🎙️ **Shark Voice Assistant** | Python voice assistant — speech recognition, API integrations, automation scripts | `Python` `SpeechRecognition` `APIs` | [![Stars](https://img.shields.io/github/stars/ZEESHANSIDDIQUIgit?color=64ffda&style=flat-square)](https://github.com/ZEESHANSIDDIQUIgit) |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Analytics
 
 <br/>
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8b949e&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8b949e&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=e2b96f&text_color=c9d1d9&count_private=true&rank_icon=percentile" />
+&nbsp;
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -233,33 +222,37 @@ const developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEESHANSIDDIQUIgit&theme=transparent&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8b949e&dates=8b949e&sideNums=64ffda&currStreakNum=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEESHANSIDDIQUIgit&theme=transparent&hide_border=true&background=0d1117&stroke=a78bfa&ring=e2b96f&fire=e2b96f&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&sideNums=a78bfa&currStreakNum=e2b96f)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;Contribution Graph
 
 <br/>
 
 <div align="center">
 
-[![Zeeshan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true&custom_title=Zeeshan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=a78bfa&line=e2b96f&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED SNAKE -->
-## 🐍 Contribution Snake
+## 🐍 &nbsp;Contribution Snake
 
 <br/>
 
@@ -268,25 +261,31 @@ const developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- QUOTE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      QUOTE                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:112240&height=140&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=64ffda&animation=fadeIn&fontAlignY=70&desc=⟨%20Open%20to%20opportunities%20%26%20collaborations%20⟩&descColor=8b949e&descSize=13&descAlignY=88" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=140&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=e2b96f&animation=fadeIn&fontAlignY=65&desc=Open%20to%20opportunities%20%E2%80%A2%20collaborations%20%E2%80%A2%20open-source&descColor=a78bfa&descSize=14&descAlignY=85" />
 
 </div>
