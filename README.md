@@ -3,10 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=160&section=header&text=Zeeshan%20Siddiqui&fontSize=28&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=12" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=230&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=42&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=17" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=200&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=36&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=14" />
 
 </div>
 
@@ -28,8 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeeshan-siddiqui)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZEESHANSIDDIQUIgit)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ZEESHANSIDDIQUIgit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzeeshancs8990@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://zeeshan-siddiqui-portfolio.vercel.app/)
 
 <br/>
 
