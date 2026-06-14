@@ -3,7 +3,10 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=230&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=42&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=17" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=160&section=header&text=Zeeshan%20Siddiqui&fontSize=28&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=12" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0533,80:2d1b69,100:0d1117&height=230&section=header&text=Muhammad%20Zeeshan%20Siddiqui&fontSize=42&fontColor=e2b96f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20CS%20Student&descAlignY=64&descColor=a78bfa&descSize=17" />
+</picture>
 
 </div>
 
@@ -12,7 +15,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=680&height=48&lines=%24+whoami+%E2%86%92+Full-Stack+Developer+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Building+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node.js+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+node+-e+%22console.log('Learning+AI%2FML+daily')%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=380&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,7 +41,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br/>
 
@@ -46,11 +51,11 @@
 <!--                      ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-
 ## 🧑‍💻 &nbsp;About Me
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="65%">
 
 &nbsp;🎓 &nbsp;CS Student at **SSUET** — Class of 2028 &nbsp;|&nbsp; Karachi, 🇵🇰  
 &nbsp;💼 &nbsp;Building full-stack apps with **Node.js · React · MySQL**  
@@ -59,7 +64,12 @@
 &nbsp;🤝 &nbsp;Open to **collaborations** and **open-source** contributions  
 &nbsp;⚡ &nbsp;Fun fact: I turn ☕ into scalable applications  
 
-<br clear="right"/>
+</td>
+<td valign="top" width="35%" align="center">
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -70,7 +80,7 @@
 <br/>
 
 ```typescript
-// zeeshan.config.ts  ──  last updated 2025
+// zeeshan.config.ts  ──  last updated 2026
 
 const zeeshan = {
   name     : "Muhammad Zeeshan Siddiqui",
@@ -101,7 +111,9 @@ const zeeshan = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br/>
 
@@ -158,23 +170,25 @@ const zeeshan = {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║              ⚡  SKILL PROFICIENCY METER  ⚡             ║
-╠══════════════════════════════════════════════════════════╣
-║  ◈  Node.js / Express    ████████████████░░░░   80%     ║
-║  ◈  JavaScript / React   ██████████████░░░░░░   75%     ║
-║  ◈  MySQL / Databases    ████████████░░░░░░░░   70%     ║
-║  ◈  Python               ██████████░░░░░░░░░░   55%     ║
-║  ◈  TypeScript           █████████░░░░░░░░░░░   50%     ║
-║  ◈  AI / ML Concepts     ███████░░░░░░░░░░░░░   40%     ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║          ⚡  SKILL PROFICIENCY METER  ⚡             ║
+╠══════════════════════════════════════════════════════╣
+║  Node.js / Express    ████████████████░░░░   80%     ║
+║  JavaScript / React   ██████████████░░░░░░   75%     ║
+║  MySQL / Databases    ████████████░░░░░░░░   70%     ║
+║  Python               ██████████░░░░░░░░░░   55%     ║
+║  TypeScript           █████████░░░░░░░░░░░   50%     ║
+║  AI / ML Concepts     ███████░░░░░░░░░░░░░   40%     ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br/>
 
@@ -186,19 +200,17 @@ const zeeshan = {
 
 <br/>
 
-<div align="center">
-
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
 | 💰 | **FinancePro Dashboard** | Full-stack personal finance app — budget tracking, transactions, Chart.js graphs, PDF/Excel/Word exports | `Node.js` `Express` `MySQL` `Chart.js` `HTML/CSS` |
 | 📚 | **SSUET Smart Library** | Library management system — QR issuance, JWT auth, admin & student roles, fine tracking, AI recommendations | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
 | 🎙️ | **Shark Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, automation scripts | `Python` `SpeechRecognition` `APIs` |
 
-</div>
-
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br/>
 
@@ -212,9 +224,8 @@ const zeeshan = {
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=e2b96f&text_color=c9d1d9&count_private=true&rank_icon=percentile" />
-&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img width="49%" min-width="300" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=e2b96f&text_color=c9d1d9&count_private=true&rank_icon=percentile" />
+<img width="49%" min-width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -222,18 +233,20 @@ const zeeshan = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEESHANSIDDIQUIgit&theme=transparent&hide_border=true&background=0d1117&stroke=a78bfa&ring=e2b96f&fire=e2b96f&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&sideNums=a78bfa&currStreakNum=e2b96f)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEESHANSIDDIQUIgit&theme=dark&hide_border=true&background=0d1117&stroke=a78bfa&ring=e2b96f&fire=e2b96f&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&sideNums=a78bfa&currStreakNum=e2b96f)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION GRAPH                          -->
+<!--           CONTRIBUTION GRAPH (PREMIUM STYLE)               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 &nbsp;Contribution Graph
@@ -242,14 +255,14 @@ const zeeshan = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=a78bfa&line=e2b96f&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Contribution%20Activity&theme=github-compact" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION SNAKE                         -->
+<!--           CONTRIBUTION SNAKE (PREMIUM GOLD)                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Contribution Snake
@@ -261,7 +274,7 @@ const zeeshan = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -274,7 +287,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
