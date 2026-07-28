@@ -12,7 +12,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=380&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=380&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+powerbi+--load+%E2%86%92+E-Commerce+Sales+Analytics+%F0%9F%93%8A;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -137,7 +137,6 @@ const zeeshan = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-7c3aed?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-e2b96f?style=for-the-badge&logo=fastapi&logoColor=black)
 
 ### 🗄️ Databases
@@ -152,6 +151,7 @@ const zeeshan = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-e2b96f?style=for-the-badge&logo=microsoft&logoColor=black)
 
 ### 🔧 Languages & Tools
@@ -163,9 +163,7 @@ const zeeshan = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☁️ Cloud & AI
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?style=for-the-badge&logo=cloudflare&logoColor=white)
+### 📱 Mobile App Development
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 
 </div>
