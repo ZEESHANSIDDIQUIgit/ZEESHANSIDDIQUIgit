@@ -36,13 +36,9 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME                              -->
@@ -107,13 +103,9 @@ const zeeshan = {
 
 </details>
 
-<br/>
-
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                              -->
@@ -189,13 +181,9 @@ const zeeshan = {
 
 </div>
 
-<br/>
-
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                         -->
@@ -214,13 +202,9 @@ const zeeshan = {
 | 🎬 | **Netflix Data Analysis** | Exploratory data analysis of 8,000+ Netflix titles — 10+ data-wrangling techniques, 6 Matplotlib visualizations on content type, ratings, duration, release trends, and country distribution | `Python` `Pandas` `Matplotlib` `EDA` |
 | 🗂️ | **ZEESHANSIDDIQUIgit Profile Hub** | This open-source personal hub — markdown statistics, automation workflow tokens, active repository listings, profile metadata | `Markdown` `Git/GitHub` `Profile Hub` |
 
-<br/>
-
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                             -->
@@ -245,13 +229,9 @@ const zeeshan = {
 
 </div>
 
-<br/>
-
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--           CONTRIBUTION GRAPH (PREMIUM STYLE)               -->
@@ -263,7 +243,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Contribution%20Activity&theme=github-compact" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Monthly%20Contribution%20Activity&theme=github-compact&days=30" />
 
 </div>
 
