@@ -12,7 +12,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=380&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+powerbi+--load+%E2%86%92+E-Commerce+Sales+Analytics+%F0%9F%93%8A;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=380&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,9 +36,13 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME                              -->
@@ -53,7 +57,6 @@
 &nbsp;🎓 &nbsp;CS Student at **SSUET** — Class of 2028 &nbsp;|&nbsp; Karachi, 🇵🇰  
 &nbsp;💼 &nbsp;Building full-stack apps with **Node.js · React · MySQL**  
 &nbsp;🔭 &nbsp;Currently shipping **SSUET Smart Library** & **FinancePro**  
-&nbsp;📊 &nbsp;Turning raw datasets into dashboards with **Power BI · Pandas · Matplotlib**  
 &nbsp;🌱 &nbsp;Leveling up in **Next.js · TypeScript · React Native · AI/ML**  
 &nbsp;🤝 &nbsp;Open to **collaborations** and **open-source** contributions  
 &nbsp;⚡ &nbsp;Fun fact: I turn ☕ into scalable applications  
@@ -103,85 +106,51 @@ const zeeshan = {
 
 </details>
 
+<br/>
+
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
-
 <br/>
+═══════════════════════════════════════════════════════════ --> <!-- TECH STACK --> <!-- ═══════════════════════════════════════════════════════════ -->
+🛠️  Tech Stack
+<br/> <div align="center">
+🎨 Frontend
 
-<div align="center">
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+⚙️ Backend
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7c3aed?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-e2b96f?style=for-the-badge&logo=fastapi&logoColor=black)
+Show Image Show Image Show Image Show Image
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+🗄️ Databases
 
-### 📊 Data Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-e2b96f?style=for-the-badge&logo=microsoft&logoColor=black)
+Show Image Show Image Show Image Show Image
 
-### 🔧 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+📊 Data Analytics
 
-### 📱 Mobile App Development
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-</div>
+🔧 Languages & Tools
 
-<br/>
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-<!-- SKILL PROFICIENCY METER -->
-<div align="center">
+📱 Mobile App Development
 
-### ⚡ Skill Proficiency Meter
+Show Image
 
-| Skill | Proficiency | Level |
-|:--|:--|:--:|
-| **Node.js / Express** | `████████████████░░░░` | 80% |
-| **JavaScript / React** | `███████████████░░░░░` | 75% |
-| **MySQL / Databases** | `██████████████░░░░░░` | 70% |
-| **Power BI / DAX** | `█████████████░░░░░░░` | 65% |
-| **Python (Pandas etc.)** | `███████████░░░░░░░░░` | 55% |
-| **TypeScript** | `██████████░░░░░░░░░░` | 50% |
-| **AI / ML Concepts** | `████████░░░░░░░░░░░░` | 40% |
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+</div> <br/> <!-- SKILL PROFICIENCY METER --> <div align="center">
+⚡ Skill Proficiency Meter
+Skill	Proficiency	Level
+Node.js / Express	████████████████░░░░	80%
+JavaScript / React	███████████████░░░░░	75%
+MySQL / Databases	██████████████░░░░░░	70%
+Power BI / DAX	█████████████░░░░░░░	65%
+Python (Pandas etc.)	███████████░░░░░░░░░	55%
+TypeScript	██████████░░░░░░░░░░	50%
+AI / ML Concepts	████████░░░░░░░░░░░░	40%
+</div> <div align="center"> <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <!--
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  FEATURED PROJECTS                         -->
@@ -193,16 +162,17 @@ const zeeshan = {
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| 📊 | **E-Commerce Sales Analytics** | 4-page interactive Power BI dashboard built from a 700+ row raw dataset, covering sales, customer, product, and fulfillment performance — 6+ custom DAX measures and a cleaned Power Query pipeline across 16 columns | `Power BI` `Power Query` `DAX` `Excel` |
 | 💰 | **FinancePro Dashboard** | Full-stack personal finance app — budget tracking, transactions, Chart.js graphs, PDF/Excel/Word exports | `Node.js` `Express` `MySQL` `Chart.js` `HTML/CSS` |
-| 🎙️ | **"Shark" Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, opens websites, tells jokes, fetches news, runs climate widgets | `Python` `SpeechRecognition` `APIs` |
-| 📚 | **QR Library System** | Full-stack, QR-code based library management system — student self-issue/return workflows, real-time fine calculation, admin metrics panels | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
-| 🎬 | **Netflix Data Analysis** | Exploratory data analysis of 8,000+ Netflix titles — 10+ data-wrangling techniques, 6 Matplotlib visualizations on content type, ratings, duration, release trends, and country distribution | `Python` `Pandas` `Matplotlib` `EDA` |
-| 🗂️ | **ZEESHANSIDDIQUIgit Profile Hub** | This open-source personal hub — markdown statistics, automation workflow tokens, active repository listings, profile metadata | `Markdown` `Git/GitHub` `Profile Hub` |
+| 📚 | **SSUET Smart Library** | Library management system — QR issuance, JWT auth, admin & student roles, fine tracking, AI recommendations | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
+| 🎙️ | **Shark Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, automation scripts | `Python` `SpeechRecognition` `APIs` |
+
+<br/>
 
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                             -->
@@ -227,9 +197,13 @@ const zeeshan = {
 
 </div>
 
+<br/>
+
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--           CONTRIBUTION GRAPH (PREMIUM STYLE)               -->
@@ -241,7 +215,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20All-Time%20Contribution%20Activity&theme=github-compact" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Contribution%20Activity&theme=github-compact" />
 
 </div>
 
