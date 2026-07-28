@@ -165,19 +165,17 @@ const zeeshan = {
 <!-- SKILL PROFICIENCY METER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          ⚡  SKILL PROFICIENCY METER  ⚡             ║
-╠══════════════════════════════════════════════════════╣
-║  Node.js / Express    ████████████████░░░░   80%     ║
-║  JavaScript / React   ██████████████░░░░░░   75%     ║
-║  MySQL / Databases    ████████████░░░░░░░░   70%     ║
-║  Power BI / DAX       ████████████░░░░░░░░   65%     ║
-║  Python (Pandas etc.) ██████████░░░░░░░░░░   55%     ║
-║  TypeScript           █████████░░░░░░░░░░░   50%     ║
-║  AI / ML Concepts     ███████░░░░░░░░░░░░░   40%     ║
-╚══════════════════════════════════════════════════════╝
-```
+### ⚡ Skill Proficiency Meter
+
+| Skill | Proficiency | Level |
+|:--|:--|:--:|
+| **Node.js / Express** | `████████████████░░░░` | 80% |
+| **JavaScript / React** | `███████████████░░░░░` | 75% |
+| **MySQL / Databases** | `██████████████░░░░░░` | 70% |
+| **Power BI / DAX** | `█████████████░░░░░░░` | 65% |
+| **Python (Pandas etc.)** | `███████████░░░░░░░░░` | 55% |
+| **TypeScript** | `██████████░░░░░░░░░░` | 50% |
+| **AI / ML Concepts** | `████████░░░░░░░░░░░░` | 40% |
 
 </div>
 
@@ -243,7 +241,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20Monthly%20Contribution%20Activity&theme=github-compact&days=30" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20July%202026%20Contribution%20Activity&theme=github-compact&days=30" />
 
 </div>
 
