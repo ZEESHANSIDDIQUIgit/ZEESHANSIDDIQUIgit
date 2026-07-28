@@ -57,6 +57,7 @@
 &nbsp;🎓 &nbsp;CS Student at **SSUET** — Class of 2028 &nbsp;|&nbsp; Karachi, 🇵🇰  
 &nbsp;💼 &nbsp;Building full-stack apps with **Node.js · React · MySQL**  
 &nbsp;🔭 &nbsp;Currently shipping **SSUET Smart Library** & **FinancePro**  
+&nbsp;📊 &nbsp;Turning raw datasets into dashboards with **Power BI · Pandas · Matplotlib**  
 &nbsp;🌱 &nbsp;Leveling up in **Next.js · TypeScript · React Native · AI/ML**  
 &nbsp;🤝 &nbsp;Open to **collaborations** and **open-source** contributions  
 &nbsp;⚡ &nbsp;Fun fact: I turn ☕ into scalable applications  
@@ -144,6 +145,14 @@ const zeeshan = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 📊 Data Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-e2b96f?style=for-the-badge&logo=microsoft&logoColor=black)
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
