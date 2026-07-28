@@ -173,7 +173,8 @@ const zeeshan = {
 ║  Node.js / Express    ████████████████░░░░   80%     ║
 ║  JavaScript / React   ██████████████░░░░░░   75%     ║
 ║  MySQL / Databases    ████████████░░░░░░░░   70%     ║
-║  Python               ██████████░░░░░░░░░░   55%     ║
+║  Power BI / DAX       ████████████░░░░░░░░   65%     ║
+║  Python (Pandas etc.) ██████████░░░░░░░░░░   55%     ║
 ║  TypeScript           █████████░░░░░░░░░░░   50%     ║
 ║  AI / ML Concepts     ███████░░░░░░░░░░░░░   40%     ║
 ╚══════════════════════════════════════════════════════╝
@@ -199,9 +200,12 @@ const zeeshan = {
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
+| 📊 | **E-Commerce Sales Analytics** | 4-page interactive Power BI dashboard built from a 700+ row raw dataset, covering sales, customer, product, and fulfillment performance — 6+ custom DAX measures and a cleaned Power Query pipeline across 16 columns | `Power BI` `Power Query` `DAX` `Excel` |
 | 💰 | **FinancePro Dashboard** | Full-stack personal finance app — budget tracking, transactions, Chart.js graphs, PDF/Excel/Word exports | `Node.js` `Express` `MySQL` `Chart.js` `HTML/CSS` |
-| 📚 | **SSUET Smart Library** | Library management system — QR issuance, JWT auth, admin & student roles, fine tracking, AI recommendations | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
-| 🎙️ | **Shark Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, automation scripts | `Python` `SpeechRecognition` `APIs` |
+| 🎙️ | **"Shark" Voice Assistant** | Python voice assistant — speech recognition, multi-API integration, opens websites, tells jokes, fetches news, runs climate widgets | `Python` `SpeechRecognition` `APIs` |
+| 📚 | **QR Library System** | Full-stack, QR-code based library management system — student self-issue/return workflows, real-time fine calculation, admin metrics panels | `Node.js` `Express` `MySQL` `JWT` `QR Code` |
+| 🎬 | **Netflix Data Analysis** | Exploratory data analysis of 8,000+ Netflix titles — 10+ data-wrangling techniques, 6 Matplotlib visualizations on content type, ratings, duration, release trends, and country distribution | `Python` `Pandas` `Matplotlib` `EDA` |
+| 🗂️ | **ZEESHANSIDDIQUIgit Profile Hub** | This open-source personal hub — markdown statistics, automation workflow tokens, active repository listings, profile metadata | `Markdown` `Git/GitHub` `Profile Hub` |
 
 <br/>
 
