@@ -38,41 +38,25 @@ I'm a Computer Science student at **SSUET, Karachi** (Class of 2028), building a
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                              -->
+<!--              TECH STACK — TERMINAL STYLE                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🛠️ Tech Stack
+### 🖥️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+```ansi
+zeeshan@ssuet:~$ neofetch --style=technologist
 
-**Development**
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
-
-</td>
-<td valign="top" width="50%">
-
-**Data & ML**
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-000?style=flat-square&logo=scikitlearn)
-![Power BI](https://img.shields.io/badge/-Power_BI-000?style=flat-square&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=plotly)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=flat-square&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-
-</td>
-</tr>
-</table>
+  ██████╗ ███████╗██╗   ██╗       OS: Full-Stack + Data Science
+  ██╔══██╗██╔════╝██║   ██║       ─────────────────────────────
+  ██║  ██║█████╗  ██║   ██║       Languages   : JavaScript · TypeScript · Python · C++ · C#
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝       Frontend    : React · Tailwind CSS · HTML5/CSS3
+  ██████╔╝███████╗ ╚████╔╝        Backend     : Node.js · Express.js · JWT · REST APIs
+  ╚═════╝ ╚══════╝  ╚═══╝         Databases   : MySQL · MongoDB · SQLite
+                                  Data/ML     : Pandas · NumPy · scikit-learn · Matplotlib
+  > status: shipping             Analytics   : Power BI · DAX · Power Query
+  > uptime: since 2024           Tools       : Git · GitHub · VS Code · Postman
+  > mode:   builder + analyst    Learning    : Next.js · React Native · Applied ML
+```
 
 <br/>
 
@@ -136,10 +120,24 @@ Python voice assistant with speech recognition and multi-API integration — ope
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!--           CONTRIBUTION GRAPH — FEATURED                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### 🔥 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d0d0d&color=fbbf24&line=f97316&point=ffffff&area=true&area_color=7f1d1d&hide_border=true&custom_title=Zeeshan's+Contribution+Activity&theme=github-compact&height=450" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -148,14 +146,8 @@ Python voice assistant with speech recognition and multi-API integration — ope
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZEESHANSIDDIQUIgit&theme=dark&hide_border=true&background=0d0d0d&stroke=ea580c&ring=f97316&fire=fbbf24&currStreakLabel=fbbf24&sideLabels=a3a3a3&dates=a3a3a3&sideNums=f97316&currStreakNum=fbbf24)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZEESHANSIDDIQUIgit&theme=dark&hide_border=true&background=0d0d0d&stroke=ea580c&ring=f97316&fire=fbbf24&currStreakLabel=fbbf24&sideLabels=a3a3a3&dates=a3a3a3&sideNums=f97316&currStreakNum=fbbf24)](https://git.io/streak-stats)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d0d0d&color=fbbf24&line=f97316&point=ffffff&area=true&area_color=7f1d1d&hide_border=true&custom_title=Contribution+Activity&theme=github-compact" />
 </div>
 
 <br/>
