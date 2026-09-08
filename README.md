@@ -197,12 +197,7 @@ const zeeshan = {
 
 <br/>
 
-<div align="center">
 
-<img width="49%" min-width="300" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=e2b96f&text_color=c9d1d9&count_private=true&rank_icon=percentile" />
-<img width="49%" min-width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div>
 
 <br/>
 
