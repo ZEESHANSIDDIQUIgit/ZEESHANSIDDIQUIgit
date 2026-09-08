@@ -212,20 +212,13 @@ const zeeshan = {
 
 </div>
 
-<div align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
 ## 📈 &nbsp;Contribution Graph
 
 <br/>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZEESHANSIDDIQUIgit&bg_color=0d1117&color=e2b96f&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Zeeshan's%20All-Time%20Contribution%20Activity" />
-<img width="100%" src="https://ghchart.rshah.org/ZEESHANSIDDIQUIgit" />
+  <img width="100%" src="./profile-activity-graph.svg" alt="Contribution Graph" />
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!--           CONTRIBUTION SNAKE (PREMIUM GOLD)                -->
