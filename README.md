@@ -212,14 +212,6 @@ const zeeshan = {
 
 </div>
 
-## 📈 &nbsp;Contribution Graph
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="./profile-activity-graph.svg" alt="Contribution Graph" />
-</div>
-
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
