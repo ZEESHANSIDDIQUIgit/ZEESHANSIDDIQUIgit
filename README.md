@@ -219,6 +219,8 @@ const zeeshan = {
 <div align="center">
   <img width="100%" src="./profile-activity-graph.svg" alt="Contribution Graph" />
 </div>
+
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!--           CONTRIBUTION SNAKE (PREMIUM GOLD)                -->
