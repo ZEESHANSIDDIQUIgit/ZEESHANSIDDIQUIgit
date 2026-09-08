@@ -141,8 +141,8 @@ Python voice assistant with speech recognition and multi-API integration — ope
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=f97316&icon_color=fbbf24&text_color=e5e5e5&count_private=true&rank_icon=percentile" />
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=e5e5e5&langs_count=6" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ZEESHANSIDDIQUIgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=f97316&icon_color=fbbf24&text_color=e5e5e5&count_private=true&rank_icon=percentile" />
+<img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZEESHANSIDDIQUIgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=f97316&text_color=e5e5e5&langs_count=6" />
 
 <br/>
 
