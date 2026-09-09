@@ -147,22 +147,7 @@ const zeeshan = {
 
 <br/>
 
-<!-- SKILL PROFICIENCY METER -->
-<div align="center">
 
-### ⚡ Skill Proficiency Meter
-
-| Skill | Proficiency | Level |
-| :--- | :--- | :---: |
-| **Node.js / Express** | `████████████████░░░░` | 80% |
-| **JavaScript / React** | `███████████████░░░░░` | 75% |
-| **MySQL / Databases** | `██████████████░░░░░░` | 70% |
-| **Power BI / DAX** | `█████████████░░░░░░░` | 65% |
-| **Python (Pandas etc.)** | `███████████░░░░░░░░░` | 55% |
-| **TypeScript** | `██████████░░░░░░░░░░` | 50% |
-| **AI / ML Concepts** | `████████░░░░░░░░░░░░` | 40% |
-
-</div>
 
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
