@@ -14,7 +14,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=480&height=80&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%40+SSUET+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+shark.py+%E2%86%92+Voice+assistant+online+%F0%9F%8E%99%EF%B8%8F;%24+powerbi+--load+%E2%86%92+E-Commerce+Sales+Analytics+%F0%9F%93%8A;%24+node+-e+%22console.log('Learning+AI%2FML')%22)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&random=false&width=620&height=60&lines=%24+whoami+%E2%86%92+Full-Stack+Dev+%7C+Data+Analytics+%7C+Data+Science+%F0%9F%9A%80;%24+git+log+%E2%86%92+Smart+Library+%26+FinancePro...;%24+npm+run+dev+%E2%86%92+Node+%7C+React+%7C+Express+%7C+MySQL;%24+python+train.py+%E2%86%92+Building+ML+models+%F0%9F%A4%96;%24+powerbi+--load+%E2%86%92+E-Commerce+Sales+Analytics+%F0%9F%93%8A;%24+node+-e+%22console.log%28%27Learning+AI%2FML%27%29%22)](https://git.io/typing-svg)
 
 </div>
 
